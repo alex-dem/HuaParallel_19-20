@@ -6,4 +6,4 @@
 ΠΡΟΣΟΧΗ! Στην παρούσα μορφή, από το αρχείο εισόδου, διαβάζει την πρώτη μόνο εγγραφή (τις 4 πρώτες γραμμές) και όχι ολόκληρο το αρχείο.
 Ένα παράδειγμα εκτέλεσης είναι:
 
-./filter_fastq <input FASTQ file> <output filtered FASTQ file>
+./filter_fastq &gt input FASTQ file &lt &gt output filtered FASTQ file &lt
